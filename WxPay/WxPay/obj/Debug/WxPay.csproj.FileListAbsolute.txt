@@ -1,0 +1,16 @@
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\bin\Debug\WxPay.exe.config
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\bin\Debug\WxPay.exe
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\bin\Debug\WxPay.pdb
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\bin\Debug\Newtonsoft.Json.dll
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\bin\Debug\SyntacticSugar.dll
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\bin\Debug\System.Net.Http.dll
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\bin\Debug\System.Net.Http.WebRequest.dll
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\bin\Debug\Newtonsoft.Json.pdb
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\bin\Debug\Newtonsoft.Json.xml
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\bin\Debug\System.Net.Http.xml
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\bin\Debug\System.Net.Http.WebRequest.xml
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\obj\Debug\WxPay.csprojAssemblyReference.cache
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\obj\Debug\WxPay.csproj.CoreCompileInputs.cache
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\obj\Debug\WxPay.csproj.CopyComplete
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\obj\Debug\WxPay.exe
+F:\Source\CSharp\OnlinePay\WxPay\WxPay\obj\Debug\WxPay.pdb
